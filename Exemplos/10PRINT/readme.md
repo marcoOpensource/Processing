@@ -26,8 +26,8 @@ void draw(){
       line(x, y, x + spacing, y + spacing);
     } else {
       line(x, y + spacing, x + spacing, y);
-    }
-    x = x + spacing;
+    } 
+    x = x + spacing;
     if(x > width){
       x = 0;
       y = y + spacing;
@@ -43,7 +43,7 @@ void draw(){
 drawTenPrint("classic", spacing);
 ```
 
-! [SCREENSHOT] (classic.png)
+! [SCREENSHOT] (Processing/Exemplos/10PRINT/classic.png)
 
 * Colorful
 
