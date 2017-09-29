@@ -68,4 +68,13 @@ drawTenPrint("rndFat", spacing);
 drawTenPrint("rndSpace", spacing);
 ```
 
+![rndspace](https://user-images.githubusercontent.com/32375763/31026870-eb4487ac-a53f-11e7-9f29-80e602af786c.png)
+
+* All the styles minus the classic
+
+```
+drawTenPrint("mostInOne", spacing);
+```
+
+![mostinone](https://user-images.githubusercontent.com/32375763/31026873-ef7c0174-a53f-11e7-9092-fd87398d50c4.png)
 
