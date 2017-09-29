@@ -52,7 +52,7 @@ drawTenPrint("classic", spacing);
 drawTenPrint("colorful", spacing);
 ```
 
-! [SCREENSHOT] (colorful.png)
+![SCREENSHOT ](https://user-images.githubusercontent.com/32375763/31026672-3126c588-a53f-11e7-83a3-dcfcf898110b.png)
 
 * Random Stroke Weight
 
