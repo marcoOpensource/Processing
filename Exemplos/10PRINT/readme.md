@@ -34,3 +34,28 @@ void draw(){
     }
 }
 ```
+
+## 10Print examples
+
+* Classic
+
+```
+drawTenPrint("classic", spacing);
+```
+
+! [SCREENSHOT] (classic.png)
+
+* Colorful
+
+```
+drawTenPrint("colorful", spacing);
+```
+
+! [SCREENSHOT] (colorful.png)
+
+* Random Stroke Weight
+
+```
+drawTenPrint("rndFat", spacing);
+```
+
