@@ -60,3 +60,12 @@ drawTenPrint("colorful", spacing);
 drawTenPrint("rndFat", spacing);
 ```
 
+![SCREENSHOT3](https://user-images.githubusercontent.com/32375763/31026755-80236966-a53f-11e7-9847-d2107fc612fb.png)
+
+* Random Spacing value
+
+```
+drawTenPrint("rndSpace", spacing);
+```
+
+
