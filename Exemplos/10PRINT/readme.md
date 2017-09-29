@@ -43,7 +43,7 @@ void draw(){
 drawTenPrint("classic", spacing);
 ```
 
-! [SCREENSHOT] (Processing/Exemplos/10PRINT/classic.png)
+! [SCREENSHOT] (Processing/Exemplos/10PRINT/classic.png?raw=true "Classic")
 
 * Colorful
 
